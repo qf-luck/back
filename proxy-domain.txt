@@ -36,3 +36,4 @@ payload:
   - '+.monikadesign.uk'   # 莫妮卡 (动漫)
   - '+.tokyopt.xyz'       # 东京 (动漫)
   - '+.yemapt.org'          # YemaPT
+  - '+.nodeseek.com'

@@ -1,2 +1,38 @@
 payload:
-  - '+.byr.pt'
+  # --- 公站 (Public Trackers) ---
+  - '+.dmhy.org'          # 动漫花园
+  - '+.nyaa.si'           # Nyaa
+  - '+.mikanani.me'       # Mikanani
+
+  # --- 国际站点 (International Sites) ---
+  - '+.passthepopcorn.me' # PTP (顶级电影)
+  - '+.broadcasthe.net'   # BTN (顶级剧集)
+  - '+.hdbits.org'        # HDBits (顶级综合)
+  - '+.redacted.ch'       # Redacted (顶级音乐)
+  - '+.orpheus.network'   # Orpheus (音乐)
+  - '+.gazellegames.net'  # GazelleGames (游戏)
+  - '+.karagarga.in'      # Karagarga (艺术电影)
+  - '+.cinemageddon.net'  # Cinemageddon (邪典电影)
+  - '+.myanonamouse.net'  # MyAnonaMouse (电子书)
+  - '+.torrentleech.org'  # TorrentLeech (综合)
+  - '+.iptorrents.com'    # IPTorrents (综合)
+  - '+.filelist.io'       # FileList (综合)
+
+  # --- 国内顶级站点 (为保证稳定访问) ---
+  - '+.m-team.cc'         # 馒头 (综合)
+  - '+.hdsky.me'          # 天空 (综合)
+  - '+.ourbits.club'      # 我堡 (综合)
+  - '+.lemonhd.club'      # 柠檬 (原盘)
+  - '+.pterclub.com'      # 猫站 (综合)
+  - '+.hdhome.org'        # 家园 (综合)
+  - '+.totheglory.im'     # TTG/听听歌 (综合)
+  - '+.open.cd'           # 皇后 (综合)
+  
+  # --- 特殊访问要求 (如 IPv6) ---
+  - '+.u2.dmhy.org'       # U2/幼儿园 (强制 IPv6)
+  - '+.byr.pt'            # 北邮人 (教育网)
+
+  # --- 其他 (访问可能不稳定) ---
+  - '+.monikadesign.uk'   # 莫妮卡 (动漫)
+  - '+.tokyopt.xyz'       # 东京 (动漫)
+  - '+.yemapt.org'          # YemaPT

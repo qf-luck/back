@@ -1,102 +1,102 @@
 payload:
   # --- 综合站点 · 一线 (General - Top Tier) ---
-  - '+.keepfrds.com'      # 朋友
-  - '+.haidan.video'      # 海胆之家
-  - '+.hdtime.org'        # 高清时间
-  - '+.pthome.net'        # 铂金家
-  - '+.hdarea.club'       # 高清视界
-  - '+.ptchina.org'       # 铂金学院
-  - '+.hdfans.org'        # 红豆饭
-  - '+.ultrahd.net'       # UltraHD
-  - '+.htpt.cc'           # 海棠
-  - '+.hitpt.com'         # 百川
-  - '+.zhuque.in'         # 朱雀
-  - '+.audiences.me'      # 观众
-  - '+.hdbao.cc'          # 红豆包
-  - '+.ptchdbits.co'      # 彩虹岛
-  - '+.springsunday.net'   # 春天
+  # - '+.keepfrds.com'      # 朋友
+  # - '+.haidan.video'      # 海胆之家
+  # - '+.hdtime.org'        # 高清时间
+  # - '+.pthome.net'        # 铂金家
+  # - '+.hdarea.club'       # 高清视界
+  # - '+.ptchina.org'       # 铂金学院
+  # - '+.hdfans.org'        # 红豆饭
+  # - '+.ultrahd.net'       # UltraHD
+  # - '+.htpt.cc'           # 海棠
+  # - '+.hitpt.com'         # 百川
+  # - '+.zhuque.in'         # 朱雀
+  # - '+.audiences.me'      # 观众
+  # - '+.hdbao.cc'          # 红豆包
+  # - '+.ptchdbits.co'      # 彩虹岛
+  # - '+.springsunday.net'   # 春天
   - '+.piggo.me'          # 猪猪
-  - '+.cangbao.ge'        # 藏宝阁
-  - '+.leaguehd.com'      # LeagueHD
+  # - '+.cangbao.ge'        # 藏宝阁
+  # - '+.leaguehd.com'      # LeagueHD
 
   # --- 综合站点 · 发展中 (General - Developing) ---
-  - '+.hhan.club'         # 憨憨
-  - '+.hhanclub.top'
-  - '+.ubits.club'        # UBits
-  - '+.ptsbao.club'       # 烧包乐园
-  - '+.zmpt.cc'           # 织梦
-  - '+.ptlgs.org'         # PTLGS
-  - '+.skyeysnow.com'     # 天雪
-  - '+.carpt.net'         # CARPT
-  - '+.cyanbug.net'       # 大青虫
-  - '+.crabpt.vip'        # 蟹黄堡
-  - '+.qingwapt.com'      # 青蛙
-  - '+.agsvpt.com'        # AGSVPT
-  - '+.hdkyl.in'          # 麒麟
-  - '+.sunnypt.top'       # Sunny
-  - '+.pttime.org'        # PT时间
-  - '+.ptvicomo.net'      # 象站
-  - '+.ptzone.xyz'        # PTzone
-  - '+.joyhd.net'         # 开心
-  - '+.okpt.net'          # OKPT
-  - '+.1ptba.com'         # 1PTBA
-  - '+.et8.org'           # 他吹吹风
-  - '+.0ff.cc'            # 自由农场
-  - '+.ptcafe.club'       # 咖啡
-  - '+.raingfh.top'       # 雨
-  - '+.rousi.zip'         # Rousi
-  - '+.pandapt.net'       # 熊猫高清
-  - '+.xingtan.one'       # 杏坛
-  - '+.cspt.top'          # 财神
-  - '+.xingyunge.top'     # 星陨阁
-  - '+.xingyungept.org'
-  - '+.tmpt.top'          # 唐门
-  - '+.hdclone.org'       # HDClone
-  - '+.hdcity.city'       # 城市
-  - '+.oshen.win'         # OshenPT
-  - '+.njtupt.top'        # 浦园PT
-  - '+.sewerpt.com'       # 下水道
-  - '+.ptlover.cc'        # AFUN
-  - '+.kufei.org'         # 库非
-  - '+.tu88.men'          # tu88
-  - '+.si-qi.xyz'         # 思齐
-  - '+.cdfile.org'        # CD File
-  - '+.52pt.site'         # 52pt
-  - '+.playletpt.xyz'     # PlayLet
-  - '+.ptskit.com'        # PTS
-  - '+.dragonhd.xyz'      # 龙之家
-  - '+.kamept.com'        # kamePT
-  - '+.gtkpw.xyz'         # GTK
-  - '+.13city.org'        # 13City
-  - '+.luckpt.de'         # 幸运
-  - '+.ptfans.cc'         # PTFans
-  - '+.nicept.net'        # 老师
-  - '+.hxpt.org'          # 好学
+  # - '+.hhan.club'         # 憨憨
+  # - '+.hhanclub.top'
+  # - '+.ubits.club'        # UBits
+  # - '+.ptsbao.club'       # 烧包乐园
+  # - '+.zmpt.cc'           # 织梦
+  # - '+.ptlgs.org'         # PTLGS
+  # - '+.skyeysnow.com'     # 天雪
+  # - '+.carpt.net'         # CARPT
+  # - '+.cyanbug.net'       # 大青虫
+  # - '+.crabpt.vip'        # 蟹黄堡
+  # - '+.qingwapt.com'      # 青蛙
+  # - '+.agsvpt.com'        # AGSVPT
+  # - '+.hdkyl.in'          # 麒麟
+  # - '+.sunnypt.top'       # Sunny
+  # - '+.pttime.org'        # PT时间
+  # - '+.ptvicomo.net'      # 象站
+  # - '+.ptzone.xyz'        # PTzone
+  # - '+.joyhd.net'         # 开心
+  # - '+.okpt.net'          # OKPT
+  # - '+.1ptba.com'         # 1PTBA
+  # - '+.et8.org'           # 他吹吹风
+  # - '+.0ff.cc'            # 自由农场
+  # - '+.ptcafe.club'       # 咖啡
+  # - '+.raingfh.top'       # 雨
+  # - '+.rousi.zip'         # Rousi
+  # - '+.pandapt.net'       # 熊猫高清
+  # - '+.xingtan.one'       # 杏坛
+  # - '+.cspt.top'          # 财神
+  # - '+.xingyunge.top'     # 星陨阁
+  # - '+.xingyungept.org'
+  # - '+.tmpt.top'          # 唐门
+  # - '+.hdclone.org'       # HDClone
+  # - '+.hdcity.city'       # 城市
+  # - '+.oshen.win'         # OshenPT
+  # - '+.njtupt.top'        # 浦园PT
+  # - '+.sewerpt.com'       # 下水道
+  # - '+.ptlover.cc'        # AFUN
+  # - '+.kufei.org'         # 库非
+  # - '+.tu88.men'          # tu88
+  # - '+.si-qi.xyz'         # 思齐
+  # - '+.cdfile.org'        # CD File
+  # - '+.52pt.site'         # 52pt
+  # - '+.playletpt.xyz'     # PlayLet
+  # - '+.ptskit.com'        # PTS
+  # - '+.dragonhd.xyz'      # 龙之家
+  # - '+.kamept.com'        # kamePT
+  # - '+.gtkpw.xyz'         # GTK
+  # - '+.13city.org'        # 13City
+  # - '+.luckpt.de'         # 幸运
+  # - '+.ptfans.cc'         # PTFans
+  # - '+.nicept.net'        # 老师
+  # - '+.hxpt.org'          # 好学
 
   # --- 影视特色 (Movie/TV Specialty) ---
-  - '+.discfan.net'       # 蝶粉 (原盘)
+  # - '+.discfan.net'       # 蝶粉 (原盘)
   - '+.hddolby.com'       # 高清杜比 (杜比视界)
   
   # --- 动漫特色 (Anime Specialty) ---
-  - '+.azusa.wiki'        # 梓喵
-  - '+.wintersakura.net'  # 冬樱
-  - '+.ilolicon.com'     # 萝莉
+  # - '+.azusa.wiki'        # 梓喵
+  # - '+.wintersakura.net'  # 冬樱
+  # - '+.ilolicon.com'     # 萝莉
 
   # --- 音乐特色 (Music Specialty) ---
-  - '+.soulvoice.club'    # 聆音
+  # - '+.soulvoice.club'    # 聆音
   
   # --- 游戏特色 (Game Specialty) ---
-  - '+.eastgame.org'      # 吐鲁番
-  - '+.gamegamept.com'    # ggpt
+  # - '+.eastgame.org'      # 吐鲁番
+  # - '+.gamegamept.com'    # ggpt
 
   # --- 体育特色 (Sports Specialty) ---
-  - '+.hd-sportbits.org'  # HD-Sportbits
+  # - '+.hd-sportbits.org'  # HD-Sportbits
 
   # --- 女性向内容 (Female-Oriented) ---
-  - '+.star-space.net'    # 星空
+  # - '+.star-space.net'    # 星空
 
   # --- 教育网资源 (Education) ---
-  - '+.btschool.club'     # 学校
-  - '+.tjupt.org'         # 北洋园
-  - '+.hudbt.hust.edu.cn' # 蝴蝶
-  - '+.pt.sjtu.edu.cn'    # 葡萄 (SJTU)
+  # - '+.btschool.club'     # 学校
+  # - '+.tjupt.org'         # 北洋园
+  # - '+.hudbt.hust.edu.cn' # 蝴蝶
+  # - '+.pt.sjtu.edu.cn'    # 葡萄 (SJTU)

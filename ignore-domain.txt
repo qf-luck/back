@@ -84,6 +84,7 @@ payload:
 
   # --- 音乐特色 (Music Specialty) ---
   # - '+.soulvoice.club'    # 聆音
+  - '+.open.cd'           # 皇后 (综合)
   
   # --- 游戏特色 (Game Specialty) ---
   # - '+.eastgame.org'      # 吐鲁番

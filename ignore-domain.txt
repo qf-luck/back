@@ -9,7 +9,7 @@ payload:
   # - '+.hdfans.org'        # 红豆饭
   # - '+.ultrahd.net'       # UltraHD
   # - '+.htpt.cc'           # 海棠
-  # - '+.hitpt.com'         # 百川
+  - '+.hitpt.com'         # 百川
   # - '+.zhuque.in'         # 朱雀
   # - '+.audiences.me'      # 观众
   # - '+.hdbao.cc'          # 红豆包

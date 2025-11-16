@@ -99,6 +99,6 @@ payload:
 
   # --- 教育网资源 (Education) ---
   # - '+.btschool.club'     # 学校
-  # - '+.tjupt.org'         # 北洋园
+  - '+.tjupt.org'         # 北洋园
   # - '+.hudbt.hust.edu.cn' # 蝴蝶
   # - '+.pt.sjtu.edu.cn'    # 葡萄 (SJTU)

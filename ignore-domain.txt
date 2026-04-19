@@ -104,3 +104,4 @@ payload:
   # - '+.pt.sjtu.edu.cn'    # 葡萄 (SJTU)
 
   - '+.movie-pilot.org'
+  - '+.rdream.org'
